@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\bin\Debug\Agenda.InterfazDeConsola.exe.config
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\bin\Debug\Agenda.InterfazDeConsola.exe
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\bin\Debug\Agenda.InterfazDeConsola.pdb
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\bin\Debug\Clases.dll
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\bin\Debug\Clases.pdb
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\obj\Debug\Agenda.InterfazDeConsola.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\obj\Debug\Agenda.InterfazDeConsola.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\obj\Debug\Agenda.InterfazDeConsola.csproj.CopyComplete
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\obj\Debug\Agenda.InterfazDeConsola.exe
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Agenda.InterfazDeConsola\obj\Debug\Agenda.InterfazDeConsola.pdb

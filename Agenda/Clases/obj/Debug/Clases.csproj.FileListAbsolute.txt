@@ -1,0 +1,6 @@
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Clases\bin\Debug\Clases.dll
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Clases\bin\Debug\Clases.pdb
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Clases\obj\Debug\Clases.dll
+C:\Users\julia\source\repos\Agenda\EjercicioAgenda\Agenda\Clases\obj\Debug\Clases.pdb
