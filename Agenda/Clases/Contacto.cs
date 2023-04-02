@@ -14,9 +14,10 @@ namespace Clases
         private string direccion { get; set; }
         private DateTime fechaNacimiento { get; set; }
 
+        private int codigo { get; set; }
         private int llamadas { get; set; }
 
-        public Contacto(string nom, string ape, string tel, string direcc, DateTime fechaNac, int llam)
+        public Contacto(string nom, string ape, string tel, string direcc, DateTime fechaNac, int cod, int llam)
         {
             nombre = nom;
             apellido = ape;
@@ -24,6 +25,7 @@ namespace Clases
             direccion = direcc;
             fechaNacimiento = fechaNac;
             llamadas = llam;
+            codigo = cod;
         }
 
         public int edad()
@@ -32,12 +34,27 @@ namespace Clases
             int edad = Convert.ToInt32(calculo) / 365;
 
             return edad;
-            
+
         }
 
         public void llamar()
         {
             llamadas += 1;
+        }
+
+        public int getCodigo()
+        {
+            return codigo;
+        }
+        public int getLlamadas()
+        {
+            return llamadas;
+        }
+
+        public override string ToString()
+        {
+            return string.Format("Nombre: {0} - Apellido: {1} - Telefono: {2} - Fecha de nacimiento: {3} -Direccion: {4} - Codigo: {5}",
+                nombre, apellido, telefono, fechaNacimiento.ToString("dd/mm/yyyy"), direccion, codigo);
         }
 
     }
